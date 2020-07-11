@@ -8,5 +8,7 @@
       Solved is 200 points. Landing outside landing pad is possible. Fuel is infinite, so an agent can learn to fly and then land on its first attempt. 
       Four discrete actions available: do nothing, fire left orientation engine, fire main engine, fire right orientation engine
       
+!()[episode_450.gif]
+      
       
   
